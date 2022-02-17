@@ -1,0 +1,16 @@
+{
+    "name": "suchman/chessboard",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Suchanek",
+            "email": "suchman@seznam.cz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Chessboard\\": "src/"}
+    }
+}
